@@ -1,0 +1,4 @@
+t:naziv,i:godina,d:kurcina
+Toma,2020,1.5
+Fusa,2026,2.0
+Monsters,Inc.,1982,3.4

@@ -1,0 +1,5 @@
+t:naziv,d:ocena,t:domaci
+Toma,9.2,DA
+Fight Club,8.8,NE
+"Monsters, Inc.",,NE
+The Matrix Resurrections,,NE

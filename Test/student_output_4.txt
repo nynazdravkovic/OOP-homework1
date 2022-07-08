@@ -1,0 +1,5 @@
+t:naziv,i:godina,d:ocena,t:domaci,i:trajanje
+Toma,2021,9.2,DA,0
+Fight Club,1999,8.8,NE,0
+"Monsters, Inc.",2001,8.1,NE,0
+The Matrix Resurrections,2021,,NE,0
